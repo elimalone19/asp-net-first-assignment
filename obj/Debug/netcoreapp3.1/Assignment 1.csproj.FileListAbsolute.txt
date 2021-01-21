@@ -1,0 +1,20 @@
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\Assignment 1.exe
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\Assignment 1.deps.json
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\Assignment 1.runtimeconfig.json
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\Assignment 1.runtimeconfig.dev.json
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\Assignment 1.dll
+C:\Users\elima\source\repos\Assignment 1\bin\Debug\netcoreapp3.1\Assignment 1.pdb
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.csprojAssemblyReference.cache
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.AssemblyInfo.cs
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 1.StaticWebAssets.Manifest.cache
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 1.StaticWebAssets.xml
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment 1.styles.css
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.RazorTargetAssemblyInfo.cache
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.dll
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.pdb
+C:\Users\elima\source\repos\Assignment 1\obj\Debug\netcoreapp3.1\Assignment 1.genruntimeconfig.cache
